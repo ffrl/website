@@ -1,4 +1,3 @@
-[submodule "wp-content/themes/ffrl"]
-	path = wp-content/themes/ffrl
+[submodule "wp-content/themes/wordpress-bootstrap"]
+	path = wp-content/themes/wordpress-bootstrap
 	url = git://github.com/ffrl/website-theme.git
-	branch = ffrl
