@@ -5,3 +5,4 @@
 [submodule "wp-content/plugins/donation_widget"]
 	path = wp-content/plugins/donation_widget
 	url = git://github.com/ffrl/donation_plugin.git
+	branch = master
