@@ -2,3 +2,6 @@
 	path = wp-content/themes/wordpress-bootstrap
 	url = git://github.com/ffrl/website-theme.git
 	branch = ffrl
+[submodule "wp-content/plugins/donation_widget"]
+	path = wp-content/plugins/donation_widget
+	url = git://github.com/ffrl/donation_plugin.git
